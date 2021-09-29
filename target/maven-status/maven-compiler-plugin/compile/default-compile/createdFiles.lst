@@ -1,0 +1,4 @@
+ru\chigurov\spring\security\configuration\MySecurityInitializer.class
+ru\chigurov\spring\security\configuration\MyWebInitializer.class
+ru\chigurov\spring\security\configuration\MySecurityConfig.class
+ru\chigurov\spring\security\configuration\MyConfig.class
